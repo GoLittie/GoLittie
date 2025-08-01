@@ -18,4 +18,4 @@ pushing it forward with a rewrite in Go and also making it [open source](https:/
 - Get better at building websites
 - Build a desktop application
 - Use Docker efficiently
-- Learn the c++ & Zig programming language
+- Learn the c++ & Zig programming languages
