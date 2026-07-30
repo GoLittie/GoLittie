@@ -3,4 +3,3 @@
 ### What I'm working on
 
 - The [Mr Poll](https://mrpoll.xyz) Discord bot
-- I am reading [Writing an Intrepeter in Go](https://interpreterbook.com) by Thorsten Ball
